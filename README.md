@@ -12,3 +12,5 @@ not be indexed. Assume that a list of stop words is available. Implement this pr
 b) Design a program to merge all indices into one large word-document index ranked by decreasing frequency to be stored in node. Implement this program using MPI in C.
 
 c) Measure the time taken for a) and b) for different numbers and sizes of documents and independently varying the number of processors used. For each input (of a given number of documents of certain sizes), plot a curve of time taken against number of processors used.
+
+The design, measurements and inferences are summarized in the design document.
